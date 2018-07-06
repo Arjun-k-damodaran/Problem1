@@ -59,7 +59,7 @@ namespace ATM_SystemProblem1
             }
 
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
